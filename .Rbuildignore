@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^codemeta\.json$
+^inst/gui/node_modules$
+^inst/gui/\.nvmrc$
+^inst/gui/\.git.*$
+^inst/gui/dist$
